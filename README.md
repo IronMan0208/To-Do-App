@@ -1,3 +1,4 @@
+<img width="1280" height="2856" alt="Screenshot_20260606_194139" src="https://github.com/user-attachments/assets/dc073c76-1947-493a-b681-878d8b235c3e" />
 # To-Do App
 
 A simple To-Do App built using Kotlin and Jetpack Compose.
