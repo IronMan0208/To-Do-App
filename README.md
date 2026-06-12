@@ -135,7 +135,11 @@ Provides a single database instance across the application.
 
 ## 📥 Download APK
 
-Download the latest APK from the **Releases** section.
+Download the latest version of the To-Do App from GitHub Releases.
+
+🔗 https://github.com/IronMan0208/To-Do-App/releases/latest
+
+Current Release: **ToDo App v2.0**
 
 ---
 
